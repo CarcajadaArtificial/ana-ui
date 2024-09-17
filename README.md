@@ -96,7 +96,8 @@ Personally, I'm more of an `import_map.json`.
 ```json
 {
   "imports": {
-    "lunchbox": "https://deno.land/x/lunchbox@vX.X.X/mod.ts"
+    "lunchbox": "https://deno.land/x/lunchbox@vX.X.X/mod.ts",
+    "resin": "https://deno.land/x/resin/mod.ts",
   }
 }
 ```
